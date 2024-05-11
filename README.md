@@ -1,6 +1,9 @@
 # chordFinder
 
 
+live https://profound-tanuki-f5bd27.netlify.app
+
+
 Objective: make an app where the notes on the fretboard ca be clicked and use the clicked notes to return what chord is being played.
 
 
